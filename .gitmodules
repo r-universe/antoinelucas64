@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "amap"]
+	path = amap
+	url = https://github.com/cran/amap
+	shallow = true
+	registered = true
+[submodule "ctc"]
+	path = ctc
+	url = https://git.bioconductor.org/packages/ctc
+	shallow = true
+	registered = true
+[submodule "geotools"]
+	path = geotools
+	url = https://github.com/cran/geotools
+	shallow = true
+	registered = true
+[submodule "gmp"]
+	path = gmp
+	url = https://github.com/cran/gmp
+	shallow = true
+	registered = true
