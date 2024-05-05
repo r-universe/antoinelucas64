@@ -5,9 +5,6 @@
 [submodule "amap"]
 	path = amap
 	url = https://github.com/cran/amap
-[submodule "ctc"]
-	path = ctc
-	url = https://git.bioconductor.org/packages/ctc
 [submodule "geotools"]
 	path = geotools
 	url = https://github.com/cran/geotools
